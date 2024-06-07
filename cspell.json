@@ -1,0 +1,19 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "eslint",
+    "jsx",
+    "passwordgenerator",
+    "postcss",
+    "react",
+    "tailwindcss",
+    "typescript",
+    "vite"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "dist/**",
+    "build/**"
+  ]
+}
